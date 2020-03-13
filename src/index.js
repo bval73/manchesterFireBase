@@ -5,6 +5,7 @@ import './Resources/css/app.css';
 
 import { BrowserRouter } from 'react-router-dom';
 import Routes from './routes';
+//import './firebase';
 //import * as serviceWorker from './serviceWorker';
 
 const App = () => {
